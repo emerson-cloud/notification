@@ -52,6 +52,8 @@ Temporary Items
 .apdisk
 
 ### NetBeans ###
+**nbproject/
+**nbproject
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
